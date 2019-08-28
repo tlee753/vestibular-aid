@@ -38,19 +38,19 @@ a {
         font-size: 2rem;
         margin: 0; }
   .exercise-container #eye-head {
-    background-image: url(/thumbnails/eye-hand-thumb.jpg); }
+    background-image: url(./thumbnails/eye-hand-thumb.jpg); }
   .exercise-container #optokinetic {
-    background-image: url(/thumbnails/optokinetic-thumb.jpg); }
+    background-image: url(./thumbnails/optokinetic-thumb.jpg); }
   .exercise-container #gaze-stab {
-    background-image: url(/thumbnails/gaze-stab-thumb.jpg); }
+    background-image: url(./thumbnails/gaze-stab-thumb.jpg); }
   .exercise-container #motor-desent {
-    background-image: url(/thumbnails/motor-desent-thumb.jpg); }
+    background-image: url(./thumbnails/motor-desent-thumb.jpg); }
   .exercise-container #eye-fusion {
-    background-image: url(/thumbnails/eye-fusion-thumb.jpg); }
+    background-image: url(./thumbnails/eye-fusion-thumb.jpg); }
   .exercise-container #saccades {
-    background-image: url(/thumbnails/saccades-thumb.jpg); }
+    background-image: url(./thumbnails/saccades-thumb.jpg); }
   .exercise-container #visual-scan {
-    background-image: url(/thumbnails/visual-scan-thumb.jpg); }
+    background-image: url(./thumbnails/visual-scan-thumb.jpg); }
 
 footer {
   color: #e4e4e4;
