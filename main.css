@@ -36,21 +36,21 @@ video {
   margin: 0 0 2rem; }
 
 ul {
-  padding: 0;
   margin: 0 0 2rem;
   font-size: 2rem;
   color: #36454f; }
 
 .exercise-container {
   max-width: 1000px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 10px; }
   .exercise-container .exercise-item {
     color: #e4e4e4;
     background-color: #B3A369;
     background-size: cover;
     background-position: center;
     height: 10rem;
-    margin: 20px;
+    margin: 20px 10px;
     color: black;
     text-align: center;
     line-height: 10rem;

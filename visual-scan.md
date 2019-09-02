@@ -13,7 +13,7 @@ permalink: /visual-scan/
 <p class="intro-text">Improve ability to scan and read, with background motion.</p>
 
 <h2 class="subtitle">Instructions</h2>
-<p class="intro-text">Read teh letters aloud as they appear on the screen. Disregard the motion in the background.</p>
+<p class="intro-text">Read the letters aloud as they appear on the screen. Disregard the motion in the background.</p>
 
 <video controls>
     <source src="../videos/visual-scan-video.mp4" type="video/mp4">
