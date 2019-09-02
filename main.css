@@ -31,10 +31,14 @@ video {
   margin: 0; }
 
 .intro-text {
-  text-align: center;
   color: #36454f;
   font-size: 2rem;
   margin: 0 0 2rem; }
+
+ul {
+  margin: 0 0 2rem;
+  font-size: 2rem;
+  color: #36454f; }
 
 .exercise-container {
   max-width: 1000px;
@@ -64,12 +68,12 @@ video {
     background-image: url(./thumbnails/eye-hand-thumb.jpg); }
   .exercise-container #optokinetic {
     background-image: url(./thumbnails/optokinetic-thumb.jpg); }
-  .exercise-container #gaze-stab {
-    background-image: url(./thumbnails/gaze-stab-thumb.jpg); }
-  .exercise-container #motor-desent {
-    background-image: url(./thumbnails/motor-desent-thumb.jpg); }
+  .exercise-container #motion-desen {
+    background-image: url(./thumbnails/motion-desen-thumb.jpg); }
   .exercise-container #eye-fusion {
     background-image: url(./thumbnails/eye-fusion-thumb.jpg); }
+  .exercise-container #gaze-stab {
+    background-image: url(./thumbnails/gaze-stab-thumb.jpg); }
   .exercise-container #saccades {
     background-image: url(./thumbnails/saccades-thumb.jpg); }
   .exercise-container #visual-scan {
@@ -82,7 +86,6 @@ footer {
   text-align: center;
   line-height: 20rem; }
   footer h3 {
-    margin: 0;
-    font-size: 2rem; }
+    margin: 0; }
 
 /*# sourceMappingURL=main.css.map */
