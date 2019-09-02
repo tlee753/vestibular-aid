@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Gaze Stabalization
+title: Gaze Stabilization
 permalink: /gaze-stab/
 ---
 
 
-<h1 class="title">Gaze Stabalization</h1>
+<h1 class="title">Gaze Stabilization</h1>
 
 <div class="video-container">
 
