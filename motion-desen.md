@@ -13,7 +13,7 @@ permalink: /motion-desen/
 <p class="intro-text">Gradually increase tolerance for visual motion.</p>
 
 <h2 class="subtitle">Instructions</h2>
-<p class="intro-text">Watch the motion on the following screnes.</p>
+<p class="intro-text">Watch the motion on the following scenes.</p>
 
 <video controls>
     <source src="../videos/motion-desen-video.mp4" type="video/mp4">
