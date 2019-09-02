@@ -16,7 +16,7 @@ permalink: /optokinetic/
 <p class="intro-text">Watch the movement of the design with your eyes, then focus on the shapes presented.</p>
 
 <video controls>
-    <source src="../videos/gaze-stab-video.mp4" type="video/mp4">
+    <source src="../videos/optokinetic-video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
