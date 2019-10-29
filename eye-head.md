@@ -5,7 +5,7 @@ permalink: /eye-head/
 ---
 
 
-<h1 class="title">Eye-Head Coordination</h1>
+<h2 class="title">Eye-Head Coordination</h2>
 
 <div class="video-container">
 

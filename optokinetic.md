@@ -5,7 +5,7 @@ permalink: /optokinetic/
 ---
 
 
-<h1 class="title">Optokinetic</h1>
+<h2 class="title">Optokinetic</h2>
 
 <div class="video-container">
 

@@ -5,7 +5,7 @@ permalink: /visual-scan/
 ---
 
 
-<h1 class="title">Visual Scan</h1>
+<h2 class="title">Visual Scan</h2>
 
 <div class="video-container">
 

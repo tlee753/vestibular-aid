@@ -5,7 +5,7 @@ permalink: /motion-desen/
 ---
 
 
-<h1 class="title">Motion Desensitization</h1>
+<h2 class="title">Motion Desensitization</h2>
 
 <div class="video-container">
 

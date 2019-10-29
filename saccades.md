@@ -5,7 +5,7 @@ permalink: /saccades/
 ---
 
 
-<h1 class="title">Saccades</h1>
+<h2 class="title">Saccades</h2>
 
 <div class="video-container">
 

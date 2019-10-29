@@ -5,7 +5,7 @@ permalink: /eye-fusion/
 ---
 
 
-<h1 class="title">Eye Fusion</h1>
+<h2 class="title">Eye Fusion</h2>
 
 <div class="video-container">
 
