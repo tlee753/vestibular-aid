@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap");
 html, body {
   margin: 0;
   padding: 0;
@@ -13,6 +13,37 @@ video {
   margin: 10px auto;
   width: 100%;
   text-align: center; }
+
+.overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 9999;
+  background-color: #B3A369;
+  color: #e4e4e4;
+  padding: 10% 0;
+  text-align: center; }
+
+input {
+  padding: 10px;
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  border-radius: 2px;
+  border: none;
+  margin-right: 10px;
+  margin-bottom: 10px; }
+
+button {
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  text-decoration: none;
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+  background-color: #e4e4e4;
+  color: #36454f; }
 
 .video-container {
   margin: 0 auto;
@@ -89,4 +120,4 @@ footer {
   footer h3 {
     margin: 0; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=styles.css.map */
