@@ -24,7 +24,8 @@ video {
   background-color: #B3A369;
   color: #e4e4e4;
   padding: 10% 0;
-  text-align: center; }
+  text-align: center;
+  margin: 10px; }
 
 input {
   padding: 10px;
