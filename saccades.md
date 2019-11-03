@@ -13,7 +13,7 @@ permalink: /saccades/
 <p class="intro-text">Improve visual motor control and quick focus by locating specific colors in the midst of other colors.</p>
 
 <h2 class="subtitle">Instructions</h2>
-<p class="intro-text">Begin by counting the number of black components on the screen, focusing on each component as you count. Follow subsequent instructions in the video.</p>
+<p class="intro-text">Begin by counting the number of black boxes on the screen, focusing on each box as you count. Follow subsequent instructions in the video.</p>
 
 <video controls>
     <source src="../videos/saccades-video.mp4" type="video/mp4">
