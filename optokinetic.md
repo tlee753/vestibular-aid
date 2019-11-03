@@ -10,7 +10,7 @@ permalink: /optokinetic/
 <div class="video-container">
 
 <h2 class="subtitle">Purpose</h2>
-<p class="intro-text">Improve and maintain focus on stationary objects, after watching objects in motion.</p>
+<p class="intro-text">Improve ability to watch the environmentmove then maintain stable focus.</p>
 
 <h2 class="subtitle">Instructions</h2>
 <p class="intro-text">Watch the movement of the design with your eyes, then focus on the shapes presented.</p>
